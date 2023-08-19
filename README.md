@@ -1,4 +1,4 @@
-# bootcamp-dio-desafio2
+# bootcamp-dio-desafio02
 Desafio de projeto de sistema bancário (versão 2) disponível na plataforma DIO, proposto pelo Bootcamp Potência Tech powered by iFood | Ciências de Dados com Python
 ## Descrição do Desafio
 Precisa-se deixar o código mais modularizado, para isso é necessário criar funções para as operações existentes: sacar, depositar e visualizar histórico. Além disso, para a versão 2 precisa-se criar duas novas funções: criar usuário (cliente do banco) e criar conta-corrente (vincular com usuário).
